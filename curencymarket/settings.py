@@ -80,12 +80,12 @@ WSGI_APPLICATION = 'curencymarket.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-DATABASES = { 
+DATABASES = {
   'default': { 
       'ENGINE': 'django.db.backends.postgresql_psycopg2', 
-      'NAME': 'my_site', 
+      'NAME': 'greatketradb', 
       'USER': 'django', 
-      'PASSWORD': '1234567890', 
+      'PASSWORD': '8066F', 
       'HOST': 'localhost', 
       'PORT': '', 
             } 
